@@ -9,5 +9,3 @@
     - Expressões geradoras  
 - Tuplas não são apenas listas imutáveis  
     - Tuplas como registros
-
-
