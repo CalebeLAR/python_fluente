@@ -14,6 +14,6 @@
 - cap12  
 - cap13  
 - apendA  
-- apendb  
+- apendB  
 
 
