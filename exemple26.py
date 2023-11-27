@@ -1,7 +1,7 @@
 # Exemplo 2.6 - Produto cartesiano em uma expressão geradora
 colors = ["black", "white"]
 sizes = ["S", "M", "L"]
-for tshirt in ("%s %s" % (c, s) for c in colors for s in sizes):
+for thisrt in ("%s %s" % (c, s) for c in colors for s in sizes):
     print(tshirt)
 
 names = ['moto', 'carro', 'caminhão']
