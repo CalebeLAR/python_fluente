@@ -13,5 +13,3 @@
     - Usando * para capturar itens excedentes  
     - Desempacotamento de tuplas aninhadas  
     - Tuplas como listas imutáveis  
-
-
