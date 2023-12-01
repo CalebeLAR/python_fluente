@@ -13,3 +13,13 @@
     - Usando * para capturar itens excedentes  
     - Desempacotamento de tuplas aninhadas  
     - Tuplas como listas imutáveis  
+- **Fatiamento**  
+    - Por que as fatias e os intervalos exduem o último item  
+    - Objetos slice
+    - Fatiamento multidimensional e reticências  
+    - Atribuição de valores a fatias  
+    - Usando + e * com sequências  
+    - Criando listas de listas  
+    - Atribuições combinadas e sequências  
+
+    
