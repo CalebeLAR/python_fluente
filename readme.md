@@ -21,5 +21,8 @@
     - Usando + e * com sequências  
     - Criando listas de listas  
     - Atribuições combinadas e sequências  
-
-    
+    - 0 enigma da atribuição +=  
+    - list.sort e a função embutida sorted  
+    - Administrando sequências ordenadas com bisect  
+    - Pesquisando com bisect  
+    - nserção com bisect.insort  
