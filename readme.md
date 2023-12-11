@@ -25,4 +25,9 @@
     - list.sort e a função embutida sorted  
     - Administrando sequências ordenadas com bisect  
     - Pesquisando com bisect  
-    - nserção com bisect.insort  
+    - Inserção com bisect.insort  
+    - Quando uma lista não é a resposta  
+    - Arrays  
+    - NumPy eSciPy  
+        - Resumo do capítulo  
+        - Leituras complementares  
